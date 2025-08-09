@@ -52,6 +52,5 @@ Acknowledgments
 
 This project was made possible by the excellent and comprehensive tutorial from SuperSimpleDev. I highly recommend it to anyone looking to improve their JavaScript and web development skills.
 
-Tutorial: JavaScript Full Course (2023) - Beginner to Pro - YouTube
 
 Instructor: SuperSimpleDev
