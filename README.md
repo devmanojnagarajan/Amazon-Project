@@ -2,7 +2,7 @@ Amazon Clone Project
 
 This project is a clone of the Amazon website's front-end, built by following an extensive JavaScript tutorial. The primary goal of this project was to gain a deeper understanding of web development fundamentals and to apply them in a real-world, complex application.
 
-        <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/1a66bfde-99cb-4ce4-ad6f-faf07f1f3fb5" />
+ <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/1a66bfde-99cb-4ce4-ad6f-faf07f1f3fb5" />
 
 What I Learned 📖
 
@@ -34,7 +34,7 @@ What I Learned 📖
 
   Learning about project structure and how to organize files and folders in a large application.
         
-        <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/0c049aa5-96cc-4364-b18a-7264ab48b9bd" />
+ <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/0c049aa5-96cc-4364-b18a-7264ab48b9bd" />
 
 Technologies Used 💻
 
@@ -44,11 +44,11 @@ Technologies Used 💻
 
   JavaScript (ES6+)
     
-        <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/2ff26ada-1a42-4d5f-be57-09b477061506" />
+ <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/2ff26ada-1a42-4d5f-be57-09b477061506" />
 
 Acknowledgments 
 
-        <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/6f37b9ee-412f-4b11-b7e2-71d813fde76e" />
+ <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/6f37b9ee-412f-4b11-b7e2-71d813fde76e" />
 
 This project was made possible by the excellent and comprehensive tutorial from SuperSimpleDev. I highly recommend it to anyone looking to improve their JavaScript and web development skills.
 
