@@ -7,53 +7,48 @@ This project is a clone of the Amazon website's front-end, built by following an
 What I Learned 📖
 
 This project was a fantastic learning experience. Here are some of the key concepts and skills I gained:
+Advanced HTML and CSS:
 
-    Advanced HTML and CSS:
+Creating complex and responsive layouts with CSS Grid and Flexbox.
 
-        Creating complex and responsive layouts with CSS Grid and Flexbox.
+Structuring a large-scale application with semantic HTML.
 
-        Structuring a large-scale application with semantic HTML.
+Styling interactive components and ensuring a consistent design across multiple pages.
+Core JavaScript Concepts:
 
-        Styling interactive components and ensuring a consistent design across multiple pages.
+Manipulating the DOM to dynamically update content.
 
-    Core JavaScript Concepts:
+Working with events to create interactive user experiences.
 
-        Manipulating the DOM to dynamically update content.
+Understanding and using data structures like arrays and objects to manage application data.
+Modern JavaScript (ES6+):
 
-        Working with events to create interactive user experiences.
+Utilizing modules to organize and maintain a clean codebase.
 
-        Understanding and using data structures like arrays and objects to manage application data.
+Working with asynchronous JavaScript using Promises and async/await to handle tasks like fetching data without blocking the main thread.
+Software Development Best Practices:
 
-    Modern JavaScript (ES6+):
+Implementing a testing framework to write and run automated tests, ensuring code quality and reliability.
 
-        Utilizing modules to organize and maintain a clean codebase.
+Gaining experience with version control using Git and managing a project on GitHub.
 
-        Working with asynchronous JavaScript using Promises and async/await to handle tasks like fetching data without blocking the main thread.
-
-    Software Development Best Practices:
-
-        Implementing a testing framework to write and run automated tests, ensuring code quality and reliability.
-
-        Gaining experience with version control using Git and managing a project on GitHub.
-
-        Learning about project structure and how to organize files and folders in a large application.
+Learning about project structure and how to organize files and folders in a large application.
         
 <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/0c049aa5-96cc-4364-b18a-7264ab48b9bd" />
 
 Technologies Used 💻
 
-    HTML5
+HTML5
 
-    CSS3
+CSS3
 
-    JavaScript (ES6+)
+JavaScript (ES6+)
+    
 <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/2ff26ada-1a42-4d5f-be57-09b477061506" />
 
-
+Acknowledgments 
 
 <img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/6f37b9ee-412f-4b11-b7e2-71d813fde76e" />
-
-    Acknowledgments 
 
 This project was made possible by the excellent and comprehensive tutorial from SuperSimpleDev. I highly recommend it to anyone looking to improve their JavaScript and web development skills.
 
